@@ -1,0 +1,3 @@
+A,Understand,Draw diagram(s) to explain classes
+A,Understand,Use the LJV to see TodoList
+B,Explain,Add comments to all of the Todo classes
